@@ -25,8 +25,8 @@
 1. Склонируйте репозиторий  
    ```bash
    git clone https://github.com/yourusername/eaeu-certificate-parser.git
-   cd eaeu-certificate-parser
-```
+   cd eaeu-certificate-parser 
+   ```
 
 2. Отредактируйте appsettings.json для настройки подключения к базе:
 
